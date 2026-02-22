@@ -17,13 +17,6 @@ I am a **Telematics Engineering** student at **UPIITA-IPN**, passionate about br
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=leonardoPerez04&theme=tokyonight&no-frame=true&column=4" alt="Leonardo's Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -43,9 +36,6 @@ I am a **Telematics Engineering** student at **UPIITA-IPN**, passionate about br
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPerez04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoPerez04&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
