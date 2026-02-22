@@ -31,10 +31,7 @@ I am a **Telematics Engineering** student at **UPIITA-IPN**, passionate about br
 
 ### My GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leonardoPerez04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPerez04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoPerez04&theme=tokyonight&hide_border=true" />
