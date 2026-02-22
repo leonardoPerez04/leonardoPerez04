@@ -11,53 +11,45 @@
 I am a **Telematics Engineering** student at **UPIITA-IPN**, passionate about bridging the gap between hardware and software. My work focuses on building scalable **IoT ecosystems**, **web applications**, and exploring the intricacies of **antenna theory** and **embedded systems**. 
 
 - 🎓 Currently pursuing my degree at **UPIITA-IPN**.
-- 🛠️ Working on a high-impact **IoT-based Flood Detection & Early Warning System** for urban safety.
+- 🛠️ Working on a high-impact **IoT-based Flood Detection & Early Warning System**.
 - ⚽ Part of the Communications Team for the **2026 Robot Soccer World Cup** in Mexico.
-- 🥁 When I'm not debugging code or tuning antennas, I’m likely behind a **drum kit** or watching a **soccer** match.
+- 🥁 When I'm not debugging code, I’m likely behind a **drum kit**.
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=leonardoPerez04&theme=tokyonight&no-frame=true&column=4" alt="Leonardo's Trophies" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### **Software & Web Development**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **IoT & Embedded Systems**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### **Tools & Specialized Knowledge**
-- **Hardware:** STM32F446RE, Raspberry Pi 4, ILI9341 Displays.
-- **Concepts:** Antenna Theory, AI Integration, Finance & Accounting Analytics.
+| Category | Technologies |
+| :--- | :--- |
+| **Web Dev** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **IoT & Embedded** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![RPI](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) |
+| **Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leonardoPerez04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPerez04&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoPerez04&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📂 Featured Project: IoT Flood Detection System
-Currently developing a low-cost, localized early warning system designed to protect neighborhoods from flash floods. It utilizes:
-- **Real-time monitoring** via specialized sensors.
-- **Node.js backend** for data processing.
-- **Low-power communication** protocols.
-
----
-
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-
----
-*“Music is the arithmetic of sounds as optics is the geometry of light.”* 🥁⚡
+<p align="left">
+<a href="https://www.linkedin.com/in/leonardo-perez-5106b3349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leonardo Perez" height="30" width="40" /></a>
+</p>
